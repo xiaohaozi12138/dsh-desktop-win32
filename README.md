@@ -1,6 +1,6 @@
 # dsh-desktop-launcher-win32
 
-> DSH web 插件：Windows 桌面启动器。在桌面生成一个小鲸鱼ico 图标的 `.lnk` 快捷方式，双击后唤醒 `dsh web` 服务并自动打开浏览器。
+> DSH web 插件：Windows 桌面启动器。在桌面生成一个小鲸鱼ico 图标的 `.lnk` 快捷方式，双击后唤醒 `dsh web` 服务并自动打开浏览器。（需启动一次dsh才能出现快捷启动器）
 
 仅支持 Windows（非 Windows 自动跳过）。
 
