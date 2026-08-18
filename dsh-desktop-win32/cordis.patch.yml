@@ -1,0 +1,9 @@
+# dsh-desktop-launcher-win32 bundle patch
+#
+# This file is the `dsh.bundle.patch` layer of the package: when the package is
+# installed and listed in the profile's `dsh.profile.bundles`, profile boot
+# merges this patch (a single `insert` of the plugin row) so the plugin's
+# `apply()` runs inside the host.
+- insert:
+    - id: dsh-desktop-launcher-win32
+      name: 'dsh-desktop-launcher-win32'
