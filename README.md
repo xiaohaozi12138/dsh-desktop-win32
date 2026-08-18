@@ -1,3 +1,4 @@
+<img width="1534" height="1533" alt="大肥鱼" src="https://github.com/user-attachments/assets/443adeb8-78a8-4c9f-90fe-bdc7493bbcaa" />
 # dsh-desktop-launcher-win32
 
 > DSH web 插件：Windows 桌面启动器。在桌面生成一个小鲸鱼ico 图标的 `.lnk` 快捷方式，双击后唤醒 `dsh web` 服务并自动打开浏览器。（需启动一次dsh才能出现快捷启动器）
